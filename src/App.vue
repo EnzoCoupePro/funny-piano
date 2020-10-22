@@ -22,3 +22,10 @@ export default {
   }
 }
 </script>
+
+<style lang="postcss" scoped>
+#app {
+  min-height: 100vh;
+  width: 100%;
+}
+</style>

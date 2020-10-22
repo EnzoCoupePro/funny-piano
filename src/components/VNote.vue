@@ -9,3 +9,15 @@
             <p id="B">SI</p>
         </div>
 </template>
+
+<style lang="postcss" scoped>
+.note {
+    margin-top: 14px;
+    display: flex;
+    justify-content: center;
+}
+
+.note p {
+    margin: 0 15px;
+}
+</style>
