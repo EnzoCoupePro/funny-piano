@@ -1,0 +1,144 @@
+body{
+    
+
+    background: linear-gradient(135deg, #FF9D6C 0%, #BB4E75 100%);
+}
+
+
+
+.rectangle {
+    
+    width: 332px;
+    height: 60px;
+    margin-left: 38%;
+    margin-right: 38%;
+    margin-top: 2.5%;
+    background-color: black;
+    border-radius: 10px;
+}
+.title {
+    padding-top: 13px;
+    font-family: PT Mono;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 34px;
+    color: white;
+    text-align: center;
+
+
+}
+.piano {
+    
+    width: 531px;
+    height: 276px;
+    background-color: black;
+    margin-top: 26.945%;
+    margin-left: 31.598%;
+}
+.blanche {
+    width: 69px;
+    height: 252px;
+    background-color: white;
+}
+#c{
+    
+    margin-left: 12px;
+    margin-top: 12px;
+    border-radius: 5px 0px 0px 5px; 
+}
+#d{
+    margin-left: 85px;
+    margin-top: -240px;
+}
+#e{
+    margin-left: 158px;
+    margin-top: -252px;
+}
+#f{
+    margin-left: 231px;
+    margin-top: -252px;
+}
+#g{
+    margin-left: 304px;
+    margin-top: -252px;
+}
+#a{
+    margin-left: 377px;
+    margin-top: -252px;
+}
+#b{
+    margin-left: 450px;
+    margin-top: -252px;
+    border-radius: 0px 5px 5px 0px;
+}
+.noir{
+    width: 30px;
+    height: 184px;
+    background-color: black;
+    border-radius: 0px 0px 5px 5px;
+}
+#cs{
+    margin-left: 68px;
+    margin-top: -252px;
+}
+#ds{
+    margin-left: 141px;
+    margin-top: -184px;
+}
+#fs{
+    margin-left: 287px;
+    margin-top: -184px;
+}
+#gs{
+    margin-left: 360px;
+    margin-top: -184px;
+}
+#as{
+    margin-left: 433px;
+    margin-top: -184px;
+}
+.note{
+    font-family: 'PT Mono',monospace;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 22px;
+    color:rgba(255, 255, 255, 0.4);
+    
+
+    width: 462px;
+    height: 22px;
+    margin-left: 488px;
+    margin-top: 48px;
+    
+}
+#C{
+    
+}
+#D{
+    margin-top: -22px;
+    margin-left: 72px;
+    
+    
+}
+#E{
+    margin-top: -22px;
+    margin-left: 146px;
+}
+#F{
+    margin-top: -22px;
+    margin-left: 220px;
+}
+#G{
+    margin-top: -22px;
+    margin-left: 287px;
+}
+#A{
+    margin-top: -22px;
+    margin-left: 366px;
+}
+#B{
+    margin-top: -22px;
+    margin-left: 438px;
+}
