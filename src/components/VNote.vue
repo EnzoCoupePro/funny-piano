@@ -12,12 +12,23 @@
 
 <style lang="postcss" scoped>
 .note {
-    margin-top: 14px;
+    width: 500px;
+    height: 22px;
     display: flex;
     justify-content: center;
+    margin: 48px auto;
+    
 }
 
 .note p {
     margin: 0 15px;
+    flex: 1;
+    
+    
+}
+@media (max-width:650px){
+    .note{
+        visibility: hidden;
+    }
 }
 </style>
